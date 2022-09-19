@@ -6,7 +6,6 @@ int main() {
 	char a[100][100];
 	int n;
 	int salary = 0;
-	int swap(int x, int y);
 	
 	scanf_s("%d\n", &n);
 	for (int i = 0; i < n;i++){
